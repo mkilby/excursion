@@ -3,19 +3,29 @@ body {
   font-family: "Verdana", sans-serif;
 }
 
+/* -- main heade text througout page --*/
 .main h1 {
   font-size: 50px;
   color: white;
-  text-align: center
 }
 
+/*-- sub text --*/
 .main h2 {
-  color: Aquamarine;
+  color: white;
   font-size: 16px;
-  text-align: center
 }
+
+/*-- download links --*/
+
 .main a {
   color: Aquamarine;
   font-size: 16px;
-  text-align: center
+}
+/*-- all text aligned in main body --*/
+.main {
+  text-align: center;
+}
+.footer {
+  text-align: right;
+  color: grey;
 }
