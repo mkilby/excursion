@@ -10,9 +10,9 @@ body {
 }
 
 /*-- sub text --*/
-.main h2 {
+.main p {
   color: white;
-  font-size: 16px;
+  font-size: 21px;
 }
 
 /*-- download links --*/
